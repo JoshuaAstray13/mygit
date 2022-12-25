@@ -1,2 +1,2 @@
 hello git!
-this is my first learn git!!!
+This is my second learn git!!!
